@@ -1,12 +1,11 @@
 # Dark & Light Themed Calculator
 
 ## Description  
-This is a simple yet elegant calculator application built with **JavaScript**, featuring **Dark and Light themes**. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, while offering an interactive and visually appealing user interface.
+A simple, elegant calculator application built as the final project in the **Global Certification** program at [**Parul University**](https://www.paruluniversity.ac.in). Developed using **JavaScript**, it features a smooth toggle between Dark and Light themes. Users can perform basic arithmetic operations with a clean, interactive, and responsive user interface.
 
 ## Features:
-- **Dark and Light Modes:** Switch between dark and light themes for a better user experience.
 - **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division easily.
-- **Responsive Design:** Works smoothly on various screen sizes and devices.
+- **Dark and Light Modes:** Switch between dark and light themes for a better user experience.
 - **Interactive UI:** Clean and modern design for better usability.
   
 ## Technologies Used:
@@ -21,7 +20,7 @@ This is a simple yet elegant calculator application built with **JavaScript**, f
 4. Perform calculations by clicking the numbers and operators.
 
 ## Preview:
-![preview](/preview.png)
+![preview](./image.png);
 
 ## Installation:
 1. Clone this repository:
